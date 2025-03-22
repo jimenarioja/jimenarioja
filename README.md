@@ -1,7 +1,13 @@
 # Hey, I'm Jimena
 
 ---
-https://img.shields.io/badge/python-3.10-pink.svg
+![Python](https://img.shields.io/badge/Python-FFD3E0?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-FFD3E0?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FFD3E0?style=for-the-badge&logo=postgresql&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-FFD3E0?style=for-the-badge&logo=sas&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFD3E0?style=for-the-badge&logo=java&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-FFD3E0?style=for-the-badge&logo=powerbi&logoColor=white)
+
 
 I'm a Statistics student at the **University of Valladolid**, and currently expanding my skills in **Artificial Intelligence** and **Spark** at **Isabel I University**.
 
