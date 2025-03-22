@@ -8,19 +8,19 @@ I’m passionate about everything data-related, from building solid data pipelin
 
 ## 🚀 What I'm working on
 
-- 🔄 Automating documentation between **Bitbucket** and **Confluence**.
-- 🛠️ Building a full **ETL process**.
-- 🧵 Exploring **Data Fabric** architecture.
-- 📊 Designing dashboards in **Power BI**.
+- Automating documentation between **Bitbucket** and **Confluence**.
+- Building a full **ETL process**.
+- Exploring **Data Fabric** architecture.
+- Designing dashboards in **Power BI**.
 
 ---
 
 ## 🧠 Currently learning
 
-- 📈 Statistics (deep dive at university).
-- 🤖 AI, Spark and big data tools (Universidad Isabel I).
-- ☁️ Cloud concepts and data architecture.
-- ⚙️ Automation and reproducibility in data workflows.
+- Statistics (deep dive at university).
+- AI, Spark and big data tools (Universidad Isabel I).
+- Cloud concepts and data architecture.
+- Automation and reproducibility in data workflows.
 
 ---
 
@@ -38,8 +38,8 @@ I’m passionate about everything data-related, from building solid data pipelin
 
 ## 📬 Let's connect!
 
-- 💼 [LinkedIn] (https://www.linkedin.com/in/jimenarioja)
-- 🗣️ Open to collaborations, internships, side projects or just chatting about data and tech.
+- [LinkedIn] (https://www.linkedin.com/in/jimenarioja)
+- Open to collaborations, internships, side projects or just chatting about data and tech.
 
 ---
 
