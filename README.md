@@ -63,9 +63,6 @@ I’m passionate about everything data-related, from building solid data pipelin
 - [LinkedIn] (https://www.linkedin.com/in/jimenarioja)
 - Open to collaborations, internships, side projects or just chatting about data and tech.
 
----
-
-##### This is the GitHub of a lucky girl 🍀 who focuses on the process, not the outcome.
 
 <!--
 **jimenarioja/jimenarioja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
