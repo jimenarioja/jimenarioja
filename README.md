@@ -4,12 +4,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF80AB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimenarioja)
 
 
-![Python](https://img.shields.io/badge/Python-FFD3E0?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-FFD3E0?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FFD3E0?style=for-the-badge&logo=postgresql&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-FFD3E0?style=for-the-badge&logo=sas&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FFD3E0?style=for-the-badge&logo=java&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-FFD3E0?style=for-the-badge&logo=powerbi&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/SAS-1A73E8?style=for-the-badge&logo=sas&logoColor=white" alt="SAS" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
 
 
 I'm a Statistics student at the **University of Valladolid**, and currently expanding my skills in **Artificial Intelligence** and **Spark** at **Isabel I University**.
