@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jimenarioja">
-    <img src="https://img.shields.io/badge/LinkedIn-FF80AB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-FFD3E0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 <br/>
