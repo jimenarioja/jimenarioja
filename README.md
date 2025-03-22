@@ -1,7 +1,7 @@
 # Hey, I'm Jimena
 
 ---
-![Python](https://img.shields.io/badge/python-3.6-blue.svg)
+https://img.shields.io/badge/python-3.10-pink.svg
 
 I'm a Statistics student at the **University of Valladolid**, and currently expanding my skills in **Artificial Intelligence** and **Spark** at **Isabel I University**.
 
