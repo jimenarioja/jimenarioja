@@ -60,8 +60,9 @@ I’m passionate about everything data-related, from building solid data pipelin
 ## 📊 My Programming Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimenarioja&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimenarioja&layout=compact&langs_count=8&title_color=FF80AB&text_color=951950&bg_color=ffffff&border_color=FF80AB" alt="Top Langs" />
 </div>
+
 
 ---
 
