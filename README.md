@@ -1,6 +1,9 @@
 # Hey, I'm Jimena
 
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF80AB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimenarioja)
+
+
 ![Python](https://img.shields.io/badge/Python-FFD3E0?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-FFD3E0?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FFD3E0?style=for-the-badge&logo=postgresql&logoColor=white)
