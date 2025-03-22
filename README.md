@@ -68,7 +68,7 @@ I’m passionate about everything data-related, from building solid data pipelin
 
 ## 📬 Let's connect!
 
-<p><a href="https://www.linkedin.com/in/jimenarioja" style="color:#FF80AB">LinkedIn</a></p>
+- [LinkedIn](https://www.linkedin.com/in/jimenarioja)
 - Open to collaborations, internships, side projects or just chatting about data and tech.
 
 
