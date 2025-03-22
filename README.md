@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jimenarioja">
-    <img src="https://img.shields.io/badge/LinkedIn-FFD3E0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF80AB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 <br/>
@@ -55,6 +55,13 @@ I’m passionate about everything data-related, from building solid data pipelin
 - **Resilience**.
 - **Learning from failure**.
 - **Never settling**.
+
+---
+## 📊 My Programming Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimenarioja&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" />
+</div>
 
 ---
 
