@@ -1,5 +1,8 @@
 # Hey, I'm Jimena
 
+---
+![Python](https://img.shields.io/badge/python-3.6-blue.svg)
+
 I'm a Statistics student at the **University of Valladolid**, and currently expanding my skills in **Artificial Intelligence** and **Spark** at **Isabel I University**.
 
 I’m passionate about everything data-related, from building solid data pipelines to understanding the math behind Machine Learning. I'm always learning, building, and pushing myself a bit further.
