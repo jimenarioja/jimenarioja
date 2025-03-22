@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 align="center">Hey, I'm Jimena 🍀</h1>
-  <p><em>A lucky girl who focuses on the process, not the outcome.</em></p>
+  <h1 align="center" style="color:#951950">Hey, I'm Jimena 🍀</h1>
+  <p style="color:#FF80AB"><em>A lucky girl who focuses on the process, not the outcome.</em></p>
 </div>
 
 <div align="center">
