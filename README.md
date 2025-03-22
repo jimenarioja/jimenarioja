@@ -1,4 +1,4 @@
-<h1 style="color:#FFD3E0">Hey, I'm Jimena </h1>
+# Hey, I'm Jimena
 
 I'm a Statistics student at the **University of Valladolid**, and currently expanding my skills in **Artificial Intelligence** and **Spark** at **Isabel I University**.
 
