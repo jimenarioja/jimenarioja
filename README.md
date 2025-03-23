@@ -1,8 +1,6 @@
 <div align="center">
   <h1 align="center">Hey, I'm Jimena 🍀</h1>
     <em>A lucky girl who focuses on the process, not the outcome.</em>
-  <img src="https://imgur.com/a/HadQGqg" alt="banner" style="width:100%;" />
-
 </div>
 
 <div align="center">
