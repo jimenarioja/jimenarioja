@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="[https://your-banner-url.com/banner.jpg](https://drive.google.com/file/d/10h0CW4d9tLEjEjcb4dg9DNj7BBW9Ae9A/view?usp=drive_link)" alt="Banner" width="100%" />
+  <img src="[https://your-banner-url.com/banner.jpg](https://imgur.com/a/Zps3uqh)" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
