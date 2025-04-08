@@ -1,6 +1,10 @@
 <div align="center">
-  <h1 align="center">Hey, I'm Jimena 🍀</h1>
-    <em>A lucky girl who focuses on the process, not the outcome.</em>
+  <h1 align="center">Hi, I'm Jimena 🍀</h1>
+  <em>A lucky girl who focuses on the process, not the outcome.</em>
+</div>
+
+<div align="center">
+  <img src="[https://your-banner-url.com/banner.jpg](https://drive.google.com/file/d/10h0CW4d9tLEjEjcb4dg9DNj7BBW9Ae9A/view?usp=drive_link)" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -8,23 +12,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-FF80AB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/SAS-1A73E8?style=for-the-badge&logo=sas&logoColor=white" alt="SAS" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</div>
-
-
-
-
-I'm a Statistics student at the **University of Valladolid**, and currently expanding my skills in **Artificial Intelligence** and **Spark** at **Isabel I University**.
-
-I’m passionate about everything data-related, from building solid data pipelines to understanding the math behind Machine Learning. I'm always learning, building, and pushing myself a bit further.
 
 ---
 
